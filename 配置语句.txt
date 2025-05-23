@@ -1,0 +1,6 @@
+go get gihub.com/gin-gonic/gin
+go get gorm.io/gorm
+go get gorm.io/driver/mysql
+
+go热重载安装: go install github.com/cosmtrek/air@latest
+运行： air 文件名
